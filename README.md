@@ -13,10 +13,12 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
  * ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
  * ![Selenium](https://img.shields.io/badge/-Selenum-05122A?style=flat&logo=selenium)&nbsp;
- * ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp; \
+ * ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
  * ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
- * ![Puppeteer](https://img.shields.io/badge/-Puppeteer-05122A?style=flat&logo=puppeteer)&nbsp; \
+ * ![Puppeteer](https://img.shields.io/badge/-Puppeteer-05122A?style=flat&logo=puppeteer)&nbsp;
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; 
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logoColor=FF6383)&nbsp; \
